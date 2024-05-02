@@ -1,0 +1,62 @@
+[
+    {
+        "id": "GrYajj",
+        "namee": "Muhammad Saeful ",
+        "clas": "XI-SIJA",
+        "school": "SMK TI BAZMA",
+        "age": "17",
+        "statuss": "PELAJAT",
+        "hoby": "BADMINTON",
+        "profession": "NGODING"
+    },
+    {
+        "id": "RlC7BQ",
+        "namee": "Muim",
+        "clas": "XI-SIJA",
+        "school": "SMK TI BAZMA",
+        "age": "17",
+        "statuss": "Pelajar",
+        "hoby": "Voli",
+        "profession": "UI/UX Designer"
+    },
+    {
+        "id": "20RPIt",
+        "namee": "Adli 123",
+        "clas": "X-PPLG",
+        "school": "SMK TI BAZMA",
+        "age": "15",
+        "statuss": "Pelajar",
+        "hoby": "Futsal",
+        "profession": "UI/UX Designer"
+    },
+    {
+        "id": "06dWNg",
+        "namee": "Saeful 321",
+        "clas": "X-PPLG",
+        "school": "SMK TI BAZMA",
+        "age": "17",
+        "statuss": "Pelajar",
+        "hoby": "Futsal",
+        "profession": "Tidak ada"
+    },
+    {
+        "id": "CtakCr",
+        "namee": "Andra New",
+        "clas": "XI-SIJA",
+        "school": "SMK TI BAZMA",
+        "age": "18",
+        "statuss": "Pelajar",
+        "hoby": "Futsal",
+        "profession": "Backend"
+    },
+    {
+        "id": "nCnJTA",
+        "namee": "Muhammad Saeful",
+        "clas": "X-MIPA",
+        "school": "SMK TI BAZMA",
+        "age": "15",
+        "statuss": "Pelajar",
+        "hoby": "Voli",
+        "profession": "Backend Dev"
+    }
+]

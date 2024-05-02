@@ -1,0 +1,27 @@
+[
+    {
+        "nama": "MS Ramadhan",
+        "umur": "17 tahun",
+        "sekolah": "SMK TI BAZMA"
+    },
+    {
+        "nama": "Bayu Pm",
+        "umur": "21",
+        "sekolah": "SMK TI BAZMA"
+    },
+    {
+        "nama": "Muhammad Saeful Ramadhan",
+        "umur": "17 tahun",
+        "hobi": "Playing Badminton"
+    },
+    {
+        "nama": "Jamal",
+        "umur": "17",
+        "hobi": "Futsal"
+    },
+    {
+        "nama": "Inda",
+        "umur": "15",
+        "hobi": "Tidur"
+    }
+]

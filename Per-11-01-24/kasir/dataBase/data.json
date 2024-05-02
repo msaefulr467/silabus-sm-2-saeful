@@ -1,0 +1,29 @@
+[
+  {
+    "name": "Laptop",
+    "quantity": 1000,
+    "type": "Electronics",
+    "productionYear": 2022,
+    "expirationYear": 2025,
+    "salesTarget": 100,
+    "id": 912
+  },
+  {
+    "name": "Modem",
+    "quantity": "1000",
+    "type": "Electronics",
+    "productionYear": 2023,
+    "expirationYear": 2024,
+    "salesTarget": 200,
+    "id": 724
+  },
+  {
+    "name": "Komputer",
+    "quantity": 1000,
+    "type": "Electronics",
+    "productionYear": 2022,
+    "expirationYear": 2026,
+    "salesTarget": 50,
+    "id": 763
+  }
+]
